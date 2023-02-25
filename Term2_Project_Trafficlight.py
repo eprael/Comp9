@@ -8,10 +8,21 @@
 # Useful links:
 #
 #  - A video of the running code and hardware
+#      https://github.com/eprael/Comp9/blob/main/Term2_Project_Trafficlight.py
+#
 #  - This code on Github
+#      https://github.com/eprael/Comp9/blob/main/Term2_Project_Trafficlight.py
+#
 #  - GPIO reference and tutorials
+#       https://gpiozero.readthedocs.io/en/stable/recipes.html
+#       https://projects.raspberrypi.org/en/projects/physical-computing/0
+#
 #  - Sample traffic light code (bottom of page)
+#       https://projects.raspberrypi.org/en/projects/physical-computing/9
+#
 #  - Google Code Blocks for coloring source code in Google Docs
+#       https://workspace.google.com/marketplace/app/code_blocks/100740430168
+#
 # —-----------------------------------------------------
 
 # libraries for clearing the screen, time delays, and GPIO pins
