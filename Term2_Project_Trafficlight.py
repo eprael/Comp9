@@ -5,7 +5,7 @@
 # This program runs on a Raspberry Pi and controls LEDs, a buzzer, 
 # and more to show what happens when a crosswalk button is pressed.  
 #
-# Useful links:
+#  Links:
 #
 #  - A video of the running code and hardware
 #      https://youtu.be/Ts2Le7cSoDA
